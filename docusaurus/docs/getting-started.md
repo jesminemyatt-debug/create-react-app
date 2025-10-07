@@ -1,4 +1,5 @@
----
+npx create-react-app el-capybarazo
+cd el-capybarazo---
 id: getting-started
 title: Getting Started
 ---
