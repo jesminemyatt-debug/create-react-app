@@ -1,4 +1,4 @@
----
+e.g., el-capybarazo---
 id: getting-started
 title: Getting Started
 ---
